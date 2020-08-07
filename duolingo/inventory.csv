@@ -1,0 +1,12 @@
+item_type,purchase_datetime,active,price_in_virtual_currency,wager_day,payment_processor,product,code_id,expected_expiration
+Streak freeze,2020-06-13 10:07:27,false,,,,,,
+Weekend amulet,2020-06-05 08:22:41,false,,,,,,
+Superhero outfit,2020-04-19 19:52:04,true,50,,,,,
+"""Idioms"" bonus skill",2020-02-22 12:26:47,true,30,,,,,
+Lingot wager,2020-02-16 12:14:02,false,5,7,,,,
+Lingot wager,2018-06-03 19:23:25,false,5,0,,,,
+Lingot wager,2018-05-15 17:02:19,false,5,3,,,,
+Lingot wager,2018-05-07 05:58:21,false,5,7,,,,
+Lingot wager,2018-04-30 19:20:58,false,5,7,,,,
+Duolingo Plus subscription,2020-02-16 11:52:22,true,4799,,Google Play,6 month Duolingo Plus subscription with 7-day free trial,,2020-08-23 11:41:40
+Streak repair,2020-07-30 16:32:53,true,,,,,,2020-07-31 22:00:00
