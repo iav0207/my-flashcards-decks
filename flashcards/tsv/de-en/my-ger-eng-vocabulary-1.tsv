@@ -26,8 +26,8 @@ das Gebiet	the area
 die Wiedervereinigung	the reunification
 feucht	humid
 nass	wet
-der Niederschlag	the precipitation # as an object
-der Schauer	the precipitation # as a process
+der Niederschlag	the precipitation	as an object
+der Schauer	the precipitation	as a process
 der Hagel	the hail
 der Frost	the frost
 frostig	frosty
@@ -47,8 +47,8 @@ das Einzelzimmer	the single room
 das Doppelzimmer	the double room
 Geil!	Cool!
 höflich	polite
-das Bescheid	the decision
-wiegen	to weight
+der Bescheid	the notice
+wiegen	to weigh
 kleben	to glue
 präzis	precisely
 der Filzstift	the felt pen
@@ -57,7 +57,7 @@ der Kugelschreiber	the ballpoint pen
 die Stofftiere	the stuffed animals
 das Gummi	the rubber
 das Kaugummi	the bubblegum
-die Band	the band # musical
+die Band	the band	musical
 das Band	the ribbon
 der Band	the volume
 die Bande	the gang
@@ -82,7 +82,7 @@ der Weizen	the wheat
 der Hafer	the oats
 der Roggen	the rye
 der Dinkel	the spelt
-rülpsen	to fart
+rülpsen	to burp
 der Sauerstoff	the oxygen
 der Kohlenstoff	the carbon
 der Wasserstoff	the hydrogen
@@ -146,5 +146,6 @@ die Abkürzung	the abbreviation
 der PKW	the car
 die Kraft	the energy
 der LKW	the truck
-der/die Angestellte	the employee
+der Angestellte	the employee
+die Angestellte	the employee
 der Betrieb	the enterprise
